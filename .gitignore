@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+tmp*
+*.cube
+*.chk
+*.h5
+
